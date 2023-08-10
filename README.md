@@ -34,9 +34,9 @@
 
 # Below are a few examples of evaluating arithmetic expressions in Python.
 
-  (3*4)+5
+    (3*4)+5
 
-17
+  17
   
 # This a simple arithmetic expression to mutiply then add integers
 
