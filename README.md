@@ -35,21 +35,23 @@
 # Below are a few examples of evaluating arithmetic expressions in Python.
 
   (3*4)+5
+
+  17
+  
 # This a simple arithmetic expression to mutiply then add integers
 
 # Convert Minutes to Hours
   
-    def convert_minutes_to_hours(minutes):
-  
+  def convert_minutes_to_hours(minutes):
       hours = minutes / 60
-    
       return hours
 
-    minutes_value = 120
+  minutes_value = 120
+  hours_result = convert_minutes_to_hours(minutes_value)
+  print(minutes_value, "minutes is equal to", hours_result, "hours")
 
-    hours_result = convert_minutes_to_hours(minutes_value)
+  120 minutes is equal to 2.0 hours
 
-    print(minutes_value, "minutes is equal to", hours_result, "hours")
 
 # Objectives
   In this notebook, we aim to achieve the following objectives:
