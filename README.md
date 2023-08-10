@@ -54,11 +54,11 @@
 # Objectives
   In this notebook, we aim to achieve the following objectives:
 
-    1. Understand and list popular data science programming languages.
-    2. Explore essential data science libraries for various tasks.
-    3. Create a table showcasing different categories of data science tools.
-    4. Perform basic arithmetic operations using Python.
-    5. Convert minutes to hours using a custom function.
+  1. Understand and list popular data science programming languages.
+  2. Explore essential data science libraries for various tasks.
+  3. Create a table showcasing different categories of data science tools.
+  4. Perform basic arithmetic operations using Python.
+  5. Convert minutes to hours using a custom function.
 
 # Author
 
